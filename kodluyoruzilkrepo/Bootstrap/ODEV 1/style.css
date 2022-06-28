@@ -1,0 +1,36 @@
+body{
+    background-color: #E9ECEF;
+}
+
+nav{
+    padding: 10px;
+}
+
+.header{
+    padding: 14px 16px;
+    text-align: center;
+}
+
+.about{
+    padding: 10px 24px;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: slateblue;
+}
+
+h3{
+    color:tan ;
+}
+
+ul {
+    list-style: inside;
+  }
+
+ol{
+    list-style-position: inside;
+}

@@ -1,0 +1,14 @@
+{
+    "extends": ["airbnb", "airbnb/hooks"],
+    "plugins": ["react", "import", "jsx-a11y", "react-hooks"],
+    "env": {
+        "es6": true,
+        "browser": true,
+        "node": true
+      },
+      "settings": {
+        "react": {
+          "version": "detect" //figure it out which React version
+        }
+      }
+}
